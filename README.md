@@ -34,7 +34,8 @@ This interactive Power BI dashboard analyzes Swiggy sales data to provide busine
 
 ## 📷 Dashboard Preview
 
-*(Dashboard screenshot will be added here.)*
+<img width="1366" height="768" alt="Dashboard" src="https://github.com/user-attachments/assets/f5d717c8-4bc6-4430-9e99-13b552839907" />
+
 
 ## 📌 Key Insights
 - Karnataka generated the highest revenue.
