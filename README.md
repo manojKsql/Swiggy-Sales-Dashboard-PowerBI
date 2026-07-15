@@ -1,5 +1,10 @@
 # 🍔 Swiggy Sales Dashboard | Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+
 ## 📌 Project Overview
 This interactive Power BI dashboard analyzes Swiggy sales data to provide business insights through dynamic visualizations.
 
