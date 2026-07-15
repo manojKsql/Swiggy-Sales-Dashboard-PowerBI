@@ -21,6 +21,16 @@ This interactive Power BI dashboard analyzes Swiggy sales data to provide busine
 - DAX
 - Power Query
 - Data Modeling
+## 🎯 Skills Demonstrated
+
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
 
 ## 📷 Dashboard Preview
 
